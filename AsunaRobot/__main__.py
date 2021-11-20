@@ -109,7 +109,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💾 Source Code", url="https://github.com/Pubglovers_shayri_lovers"
+            text="💾 Source Code", url="https://t.me/Pubglovers_shayri_lovers"
         ),
     ],
 ]
